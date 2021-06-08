@@ -8,9 +8,7 @@ My main areas of interest at the moment are Big Data, Time Series Analysis/forec
 * ⚡ Fun-Fact: I love reading about Economics;
 * 💬 Ask me about anything, I am happy to help;
 * 📫 How to reach me:
-
-
-https://faradars.org/
+** https://faradars.org/
 <!--
 **ImanJowkar/ImanJowkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
