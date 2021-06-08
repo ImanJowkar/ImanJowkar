@@ -13,6 +13,8 @@ My main areas of interest at the moment are Big Data, Time Series Analysis/forec
 * **Python** 
 * **R**
 * **Tableau**
+* **Power-Bi**
+* **SQL**
 * **Minitab**
 * **Linux**
 * **ggplot2**
