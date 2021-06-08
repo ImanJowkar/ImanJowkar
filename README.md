@@ -9,6 +9,9 @@ My main areas of interest at the moment are Big Data, Time Series Analysis/forec
 * 💬 Ask me about anything, I am happy to help;
 * 📫 How to reach me: Imanjowar99@gmail.com
 
+## Languages and Tools:
+Python  
+
 
 <!--
 **ImanJowkar/ImanJowkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
