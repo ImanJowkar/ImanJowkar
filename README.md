@@ -10,7 +10,10 @@ My main areas of interest at the moment are Big Data, Time Series Analysis/forec
 * 📫 How to reach me: Imanjowar99@gmail.com
 
 ## Languages and Tools:
-Python  
+* **Python** 
+* R
+* Tableau
+* 
 
 
 <!--
