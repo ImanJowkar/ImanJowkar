@@ -11,9 +11,14 @@ My main areas of interest at the moment are Big Data, Time Series Analysis/forec
 
 ## Languages and Tools:
 * **Python** 
-* R
-* Tableau
-* 
+* **R**
+* **Tableau**
+* **Minitab**
+* **Linux**
+* **ggplot2**
+* **sikit-learn**
+* **Tensorflow**
+* **git**
 
 
 <!--
