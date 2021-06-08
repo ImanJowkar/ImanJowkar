@@ -1,4 +1,4 @@
-## Hi 👋, I'm Iman Jowkar, a Data Scientist 📊 from Iran.
+# Hi 👋, I'm Iman Jowkar, a Data Scientist 📊 from Iran.
 
 I'm a Computer Engineer,  Student in Deep Learning that has been studying Data Science and Machine Learning since early 2019. I love working with data to solve business problems. I'm currently a master's student in control engineering at Amir-Kabir university.
 
