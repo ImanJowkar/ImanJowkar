@@ -1,7 +1,6 @@
 # Hi 👋, I'm Iman Jowkar, a Data Scientist 📊 from Iran.
 
-I'm a Computer Engineer,  Student in Deep Learning that has been studying Data Science and Machine Learning since early 2019. I love working with data to solve business problems. I'm currently a master's student in Amirkabir University of Technology - Tehran Polytechnic.
-My main areas of interest at the moment are Big Data, Time Series Analysis/forecasting. 
+I'm a Computer Engineer, Student in Deep Learning that has been studying Data Science and Machine Learning since early 2019. I love working with data to solve business problems. I'm currently a master's student at the Amirkabir University of Technology - Tehran Polytechnic. My main areas of interest at the moment are Big Data, Time Series Analysis/forecasting.
 
 ## Talking about Personal Stuffs:
 * 🌱 I’m currently learning about Deep learning Engineering;
