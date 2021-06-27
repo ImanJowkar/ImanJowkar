@@ -6,7 +6,9 @@ I'm a Computer Engineer, Student in Deep Learning that has been studying Data Sc
 * 🌱 I’m currently learning about Deep learning Engineering;
 * ⚡ Fun-Fact: I love reading about Economics;
 * 💬 Ask me about anything, I am happy to help;
-* 📫 How to reach me: Imanjowar99@gmail.com
+* 📫 How to reach me: 
+- Gmail: Imanjowar99@gmail.com
+- Linkedin: www.linkedin.com/in/iman-jowkar-232502213
 
 ## Languages and Tools:
 * **Python** 
