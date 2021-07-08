@@ -9,6 +9,7 @@ I'm a Computer Engineer, Student in Deep Learning that has been studying Data Sc
 * 📫 How to reach me: 
 - Gmail: Imanjowar99@gmail.com
 - Linkedin: www.linkedin.com/in/iman-jowkar-232502213
+- Kaggle: https://www.kaggle.com/imanjowkar
 
 ## Languages and Tools:
 * **Python** 
