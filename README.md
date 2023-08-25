@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Iman Jowkar</h1>
+<h3 align="center">DevOps Engineer</h3>
 
-<!--
-**ImanJowkar/ImanJowkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">As a skilled DevOps Engineer with over 2 years of experience, I have a proven track record in designing and implementing cutting-edge CI/CD pipelines. My expertise lies in managing production systems using modern DevOps tools, including Docker and Kubernetes. In addition to my DevOps skills, I possess strong experience with scripting languages such as Bash and Python — allowing me to automate tasks and improve system efficiency. Furthermore, I am proficient in API development using Django.</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🌱 I’m currently learning **Networking**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/imanjowkar99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="25" width="35" /></a>
