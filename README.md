@@ -1,9 +1,32 @@
 <h1 align="center">Hi 👋, I'm Iman Jowkar</h1>
 <h3 align="center">DevOps Engineer</h3>
 
-<p align="left">As a skilled DevOps Engineer with over 2 years of experience, I have a proven track record in designing and implementing cutting-edge CI/CD pipelines. My expertise lies in managing production systems using modern DevOps tools, including Docker and Kubernetes. In addition to my DevOps skills, I possess strong experience with scripting languages such as Bash and Python — allowing me to automate tasks and improve system efficiency. Furthermore, I am proficient in API development using Django.</p>
+<p align="left">As a skilled DevOps Engineer with over 2 years of experience, I have a proven track record in designing and implementing cutting-edge CI/CD pipelines. My expertise lies in managing production systems using modern DevOps tools, including Docker and Kubernetes. In addition to my DevOps skills, I possess strong experience with scripting languages such as Bash and Python — allowing me to automate tasks and improve system efficiency. </p>
 
 
+Technical Skills:
+
+- 🌱 Operating systems: Linux
+- 🌱 Scripting languages: Bash, Python
+- 🌱 Docker and Kubernetes
+- 🌱 CICD tools: GitLab-ci
+- 🌱 Container Registry: Harbor, Nexus, Gitlab
+- 🌱 Configuration management tools: Ansible
+- 🌱 Web servers:  Nginx
+- 🌱 Web framework: familiar with Django and fast API.
+
+Proficient in CCNA topics including networking fundamentals, routing, switching, security, and troubleshooting.
+
+Experienced in MicroTik RouterOS configuration, including routing protocols (OSPF, BGP), and network security features.
+
+Competent in MicroTik MTCRE topics such as advanced routing, MPLS, and VPN configurations.
+
+Skilled in Windows Server administration, including Active Directory, DNS, and DHCP.
+
+Excellent communication and teamwork skills.
+
+Tools:
+`Zabbix`, `Kerio Control`, `Pfsense` 
 
 
 - 🌱 I’m currently learning **Networking**
