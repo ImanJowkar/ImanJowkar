@@ -21,12 +21,10 @@ Experienced in MicroTik RouterOS configuration, including routing protocols (OSP
 
 Competent in MicroTik MTCRE topics such as advanced routing, MPLS, and VPN configurations.
 
-Skilled in Windows Server administration, including Active Directory, DNS, and DHCP.
-
 Excellent communication and teamwork skills.
 
 Tools:
-`Zabbix`, `Kerio Control`, `Pfsense` 
+`Zabbix`, `Pfsense`, `docker`, `Kubernetes`, `FortiGate`, 
 
 
 - 🌱 I’m currently learning **Networking**
