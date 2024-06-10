@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Iman Jowkar</h1>
 <h3 align="center">DevOps Engineer</h3>
 
-<p align="left">As a skilled DevOps Engineer with over 2 years of experience, I have a proven track record in designing and implementing cutting-edge CI/CD pipelines. My expertise lies in managing production systems using modern DevOps tools, including Docker and Kubernetes. In addition to my DevOps skills, I possess strong experience with scripting languages such as Bash and Python — allowing me to automate tasks and improve system efficiency. </p>
+<p align="left">Hello I'm Iman, a DevOps Engineer with over 3 years of experience My expertise lies in managing production systems using modern DevOps tools, including Docker and Kubernetes. In addition to my DevOps skills, I possess strong experience with scripting languages such as Bash and Python — allowing me to automate tasks and improve system efficiency. </p>
 
 
 Technical Skills:
@@ -12,8 +12,7 @@ Technical Skills:
 - 🌱 CICD tools: GitLab-ci
 - 🌱 Container Registry: Harbor, Nexus, Gitlab
 - 🌱 Configuration management tools: Ansible
-- 🌱 Web servers:  Nginx
-- 🌱 Web framework: familiar with Django and fast API.
+
 
 Proficient in CCNA topics including networking fundamentals, routing, switching, security, and troubleshooting.
 
