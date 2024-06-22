@@ -12,6 +12,9 @@ Technical Skills:
 - 🌱 CICD tools: GitLab-ci
 - 🌱 Container Registry: Harbor, Nexus, Gitlab
 - 🌱 Configuration management tools: Ansible
+- 🌱 Monitoring Tool: Zabbix, Prometheus, Grafana
+- 🌱 MicroTik (MTCNA, MTCRE, MTCWE, MTCSE)
+- 🌱 Cisco (CCNA, CCNP).
 
 
 Proficient in CCNA topics including networking fundamentals, routing, switching, security, and troubleshooting.
