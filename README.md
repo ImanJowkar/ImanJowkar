@@ -21,12 +21,14 @@ This is my Zabbix and Prometheus document:
 <a href="https://github.com/ImanJowkar/zabbix" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/zabbix/zabbix-ar21.svg" height="80" width="80" /></a>
 <a href="https://github.com/ImanJowkar/Prometheus" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" height="50" width="50" /></a>
 
+this repo is about configuring the cisco devices like layer2, layer3 and ... 
+<a href="https://github.com/ImanJowkar/Network" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg" height="50" width="50" /></a>
 
 
 Technical Skills:
 
 - 🌱 Operating systems: Linux <a href="https://github.com/ImanJowkar/Linux-command/tree/master" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" height="40" width="40" /></a>
-- 🌱 Scripting languages: Bash, Python <a href="https://github.com/ImanJowkar/bash" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" height="60" width="60" /></a>
+- 🌱 Scripting languages: Bash, Python <a href="https://github.com/ImanJowkar/bash" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" height="170" width="170" /></a>
 - 🌱 Docker and Kubernetes
 - 🌱 CI/CD tools: GitLab-ci
 - 🌱 Container Registry: Harbor, Nexus, Gitlab
