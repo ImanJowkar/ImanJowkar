@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Iman</h1>
-<h3 align="center">DevOps Engineer</h3>
+<h3 align="center">A Network Enthusiast</h3>
 
 <p align="left">
-I am a mid-level DevOps and network engineer with experience using Docker and Kubernetes. I also have expertise in monitoring and alerting tools such as Prometheus and Zabbix for overseeing infrastructure and applications. Additionally, I have worked with Cisco devices, configuring and managing routers and switches at the CCNP level, covering concepts such as switching, routing, IPSec tunneling, and MPLS. I also have experience with MikroTik RouterOS, holding certifications like MTCNA, MTCRE, MTCWE, MTCSE, MTCINE, and MTCUME.  I have deployed hotspots, VPNs for remote site connectivity, and site-to-site tunnels, and implemented security practices like port-knocking, port scanner detection, and QoS.
+I have experience with Docker and Kubernetes, as well as expertise in monitoring tools like Prometheus and Zabbix for monitoring infrastructure and applications. Additionally, I have worked with Cisco devices, configuring and managing routers and switches at the CCNP level, covering concepts such as switching, routing, IPSec tunneling, and MPLS. I also have experience with MikroTik RouterOS, holding certifications like MTCNA, MTCRE, MTCWE, MTCSE, MTCINE, and MTCUME.  I have deployed hotspots, VPNs for remote site connectivity, and site-to-site tunnels, and implemented security practices like port-knocking, port scanner detection, and QoS.
 
 I use Ansible and Python to automate tasks such as network device configurations and infrastructure setups, including the rapid installation of Zabbix agents and Prometheus exporters. I have some experience with CI/CD using GitLab-CI and ArgoCD to automate the build and deployment of new application versions. Additionally, I have used pfSense as an open-source firewall to secure our network.
 
