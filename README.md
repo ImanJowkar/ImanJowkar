@@ -6,19 +6,27 @@ I am a mid-level DevOps and network engineer with experience with tools like Doc
 
 I use Ansible and Python to automate tasks such as network device configurations and infrastructure setups, including the rapid installation of Zabbix agents and Prometheus exporters. I have some experience with CI/CD using GitLab-ci and ArgoCD to automate the build and deployment of new application versions. Additionally, I have used pfSense as an open-source firewall to secure our network.
 
-I am hardworking, enjoy my job, and eager to learn new things.
+I am very hardworking, enjoy my job, and eager to learn new things additionally excellent communication and teamwork skills.
+
 </p>
 
 You can see my post in Medium about networking and network automation
-<a href="https://medium.com/@imanjowkar99" target="blank"><img align="center" src="https://raw.githubusercontent.com/Medium/medium-logos/cd9acd1fff7e3c902b559de6c808c4a491f2d160/03_Symbol/01_Black/SVG/Artboard%201.svg" height="25" width="35" /></a>
+<a href="https://medium.com/@imanjowkar99" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg" height="100" width="100" /></a>
 
 Here is another document of mine about network automation using Python and Ansible. 
-<a href="https://github.com/ImanJowkar/python-for-network-automation" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/archive/c/c3/20220821154536%21Python-logo-notext.svg" height="25" width="35" /></a>
+<a href="https://github.com/ImanJowkar/python-for-network-automation" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/archive/c/c3/20220821154536%21Python-logo-notext.svg" height="40" width="40" /></a>
+<a href="https://github.com/ImanJowkar/Linux-command/tree/master/5-Ansible" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg" height="120" width="120" /></a>
+
+This is my Zabbix and Prometheus document: 
+<a href="https://github.com/ImanJowkar/zabbix" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/zabbix/zabbix-ar21.svg" height="80" width="80" /></a>
+<a href="https://github.com/ImanJowkar/Prometheus" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" height="50" width="50" /></a>
+
+
 
 Technical Skills:
 
-- 🌱 Operating systems: Linux
-- 🌱 Scripting languages: Bash, Python
+- 🌱 Operating systems: Linux <a href="https://github.com/ImanJowkar/Linux-command/tree/master" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" height="40" width="40" /></a>
+- 🌱 Scripting languages: Bash, Python <a href="https://github.com/ImanJowkar/bash" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" height="60" width="60" /></a>
 - 🌱 Docker and Kubernetes
 - 🌱 CICD tools: GitLab-ci
 - 🌱 Container Registry: Harbor, Nexus, Gitlab
@@ -28,11 +36,7 @@ Technical Skills:
 - 🌱 Cisco (CCNA, CCNP).
 
 
-Proficient in CCNA topics including networking fundamentals, routing, switching, security, and troubleshooting.
 
-experience in MicroTik MTCRE topics such as advanced routing, MPLS, and VPN configurations.
-
-Excellent communication and teamwork skills.
 
 Tools:
 `Zabbix`, `Pfsense`, `docker`, `Prometheus`,`Grafana` 
