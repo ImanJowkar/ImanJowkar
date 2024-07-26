@@ -15,7 +15,7 @@ You can see my post in Medium about networking and network automation
 
 Here is another document of mine about network automation using Python and Ansible. 
 <a href="https://github.com/ImanJowkar/python-for-network-automation" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/archive/c/c3/20220821154536%21Python-logo-notext.svg" height="20" width="20" /></a>
-<a href="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg" height="65" width="65" /></a>
+<a href="https://github.com/ImanJowkar/python-for-network-automation/5-ansible" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg" height="65" width="65" /></a>
 
 This is my Zabbix and Prometheus document: 
 <a href="https://github.com/ImanJowkar/zabbix" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/zabbix/zabbix-ar21.svg" height="35" width="35" /></a>
