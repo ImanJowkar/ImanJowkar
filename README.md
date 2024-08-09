@@ -2,11 +2,12 @@
 <h3 align="center">A Network Enthusiast</h3>
 
 <p align="left">
-I have experience with Docker and Kubernetes, as well as expertise in monitoring tools like Prometheus and Zabbix for monitoring infrastructure and applications. Additionally, I have worked with Cisco devices, configuring and managing routers and switches at the CCNP level, covering concepts such as switching, routing, IPSec tunneling, and MPLS. I also have experience with MikroTik RouterOS, holding certifications like MTCNA, MTCRE, MTCWE, MTCSE, MTCINE, and MTCUME.  I have deployed hotspots, VPNs for remote site connectivity, and site-to-site tunnels, and implemented security practices like port-knocking, port scanner detection, and QoS.
+I am a network enthusiast who dedicates significant effort to expanding my knowledge of networking technologies, Throughout my journey in the networking industry, I have strong skills in configuring Cisco devices such as routers and switches at the CCNP-Encore level. My skills encompass switching, routing, and IPSec tunneling. Additionally, I have hands-on experience with MikroTik RouterOS and hold several certifications, including MTCNA, MTCRE, MTCWE, MTCSE, MTCINE, and MTCUME. In my MikroTik work, I have successfully deployed hotspots, established VPNs for remote site connectivity, created site-to-site tunnels, and implemented security practices such as port-knocking, port scanner detection, and QoS.
+Additionally, I have experience with monitoring tools such as Prometheus and Zabbix for monitoring network devices and servers, and I use Grafana for creating and managing dashboards.
 
-I use Ansible and Python to automate tasks such as network device configurations and infrastructure setups, including the rapid installation of Zabbix agents and Prometheus exporters. I have some experience with CI/CD using GitLab-CI and ArgoCD to automate the build and deployment of new application versions. Additionally, I have used pfSense as an open-source firewall to secure our network.
+I use Ansible and Python to automate network device configurations and infrastructure setups, including the rapid installation of Zabbix agents and Prometheus exporters. I have some experience with CI/CD using GitLab-CI and ArgoCD to automate the build and deployment of new application versions. Additionally, I have used pfSense as an open-source firewall to secure our network.
 
-I am very hardworking, enjoy my job, and eager to learn new things additionally excellent communication and teamwork skills.
+I am very hardworking, enjoy my job, and eager to learn new things additionally, I have excellent communication and teamwork skills.
 
 </p>
 
@@ -29,13 +30,13 @@ Technical Skills:
 
 - 🌱 Operating systems: Linux <a href="https://github.com/ImanJowkar/Linux-command/tree/master" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" height="20" width="20" /></a>
 - 🌱 Scripting languages: Bash, Python <a href="https://github.com/ImanJowkar/bash" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" height="20" width="20" /></a>
-- 🌱 Docker and Kubernetes
-- 🌱 CI/CD tools: GitLab-ci
-- 🌱 Container Registry: Harbor, Nexus, Gitlab
 - 🌱 Configuration management tools: Ansible
 - 🌱 Monitoring Tool: Zabbix, Prometheus, Grafana
 - 🌱 MicroTik (MTCNA, MTCRE, MTCWE, MTCSE)
 - 🌱 Cisco (CCNA, CCNP).
+- 🌱 Docker and Kubernetes
+- 🌱 CI/CD tools: GitLab-ci
+- 🌱 Container Registry: Harbor, Gitlab
 - 🌱 I’m currently learning **Advance Networking**
 
 
