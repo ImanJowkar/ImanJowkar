@@ -2,8 +2,11 @@
 <h3 align="center">A Network Enthusiast</h3>
 
 <p align="left">
-I am a network enthusiast who dedicates significant effort to expanding my knowledge of networking technologies, Throughout my journey in the networking industry, I have strong skills in configuring Cisco devices such as routers and switches at the CCNP-Encore level. My skills encompass switching, routing, and IPSec tunneling. Additionally, I have hands-on experience with MikroTik RouterOS and hold several certifications, including MTCNA, MTCRE, MTCWE, MTCSE, MTCINE, and MTCUME. In my MikroTik work, I have successfully deployed hotspots, established VPNs for remote site connectivity, created site-to-site tunnels, and implemented security practices such as port-knocking, port scanner detection, and QoS.
-Additionally, I have experience with monitoring tools such as Prometheus and Zabbix for monitoring network devices and servers, and I use Grafana for creating and managing dashboards.
+I am very interested in networking and work hard to learn more about it. I have strong skills in setting up Cisco devices like routers and switches, at the CCNP-Encore level. I know how to handle switching, routing, and IPSec tunneling.
+
+I also have hands-on experience with MikroTik RouterOS and have earned several certifications, including MTCNA, MTCRE, MTCWE, and MTCSE. In my work with MikroTik, I have set up hotspots, created VPNs for connecting remote sites, built site-to-site tunnels, and used security methods like port-knocking and port scanner detection.
+
+I also know how to use monitoring tools like Prometheus and Zabbix to keep an eye on network devices, servers, and applications, and I use Grafana to create and manage dashboards.
 
 I use Ansible and Python to automate network device configurations and infrastructure setups, including the rapid installation of Zabbix agents and Prometheus exporters. I have some experience with CI/CD using GitLab-CI and ArgoCD to automate the build and deployment of new application versions. Additionally, I have used pfSense as an open-source firewall to secure our network.
 
