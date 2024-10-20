@@ -2,15 +2,26 @@
 <h3 align="center">A Network Enthusiast</h3>
 
 <p align="left">
-I am very interested in networking and work hard to learn more about it. I have strong skills in setting up Cisco devices like routers and switches, at the CCNP-Encore level. I know how to handle switching, routing, and IPSec tunneling.
+I am very interested in networking and work hard to learn more about it. I have skills in setting up Cisco devices like routers and switches, at the CCNP-Enterprise level. I also have hands-on experience with MikroTik RouterOS and have earned several certifications, including MTCNA, MTCRE, MTCWE, and MTCSE.
 
-I also have hands-on experience with MikroTik RouterOS and have earned several certifications, including MTCNA, MTCRE, MTCWE, and MTCSE. In my work with MikroTik, I have set up hotspots, created VPNs for connecting remote sites, built site-to-site tunnels, and used security methods like port-knocking and port scanner detection.
+I also have experience in monitoring tools like Zabbix and Prometheus  to monitor network devices, servers, and applications, and I use Grafana to create and manage beautiful dashboards.
 
-I also know how to use monitoring tools like Prometheus and Zabbix to keep an eye on network devices, servers, and applications, and I use Grafana to create and manage dashboards.
+These are the tools I have used throughout my career:
+Operating systems: Linux
+Scripting languages: Bash, Python
+Configuration management tools: Ansible
+Monitoring Tool: Zabbix, Prometheus, Grafana
+Container Runtime: docker
+CI/CD tools: GitLab-ci
 
-I use Ansible and Python to automate network device configurations and infrastructure setups, including the rapid installation of Zabbix agents and Prometheus exporters. I have some experience with CI/CD using GitLab-CI and ArgoCD to automate the build and deployment of new application versions. Additionally, I have used pfSense as an open-source firewall to secure our network.
 
-I am very hardworking, enjoy my job, and eager to learn new things additionally, I have excellent communication and teamwork skills.
+I also passed courses: 
+MicroTik (MTCNA, MTCRE, MTCWE, MTCSE)
+Cisco (CCNA, CCNP ENCOR+ENRSI).
+
+I have created a playlist of videos that teach useful tools such as Ansible, Zabbix, Prometheus, Grafana, Linux, and more.
+
+ You can find them at the following link:   https://www.aparat.com/imanjowkar_network/playlists
 
 </p>
 
