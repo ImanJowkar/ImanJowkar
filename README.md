@@ -7,11 +7,17 @@ I am very interested in networking and work hard to learn more about it. I have 
 I also have experience in monitoring tools like Zabbix and Prometheus  to monitor network devices, servers, and applications, and I use Grafana to create and manage beautiful dashboards.
 
 These are the tools I have used throughout my career:
+
 Operating systems: Linux
+
 Scripting languages: Bash, Python
+
 Configuration management tools: Ansible
+
 Monitoring Tool: Zabbix, Prometheus, Grafana
+
 Container Runtime: docker
+
 CI/CD tools: GitLab-ci
 
 
