@@ -2,9 +2,9 @@
 <h3 align="center">A Network Enthusiast</h3>
 
 <p align="left">
-I am very interested in networking and work hard to learn more about it. I have skills in setting up Cisco devices like routers and switches, at the CCNP-Enterprise level. I also have hands-on experience with MikroTik RouterOS and have earned several certifications, including MTCNA, MTCRE, MTCWE, and MTCSE.
+I am very interested in networking and work hard to learn more about it. I possess skills in configuring Cisco devices, including routers and switches, at the CCNP-Enterprise level. I also have hands-on experience with MikroTik RouterOS and have earned several certifications, including MTCNA, MTCRE, MTCWE, and MTCSE.
 
-I also have experience in monitoring tools like Zabbix and Prometheus  to monitor network devices, servers, and applications, and I use Grafana to create and manage beautiful dashboards.
+I also have experience with monitoring tools such as Zabbix and Prometheus, which enable me to monitor network devices, servers, and applications. Additionally, I utilize Grafana to create and manage visually appealing dashboards.
 
 These are the tools I have used throughout my career:
 
@@ -16,10 +16,9 @@ Configuration management tools: Ansible
 
 Monitoring Tool: Zabbix, Prometheus, Grafana
 
-Container Runtime: docker
+Container Runtime: Docker, Podman
 
-CI/CD tools: GitLab-ci
-
+CI/CD tools: GitLab CI
 
 I also passed courses: 
 MicroTik (MTCNA, MTCRE, MTCWE, MTCSE)
@@ -27,9 +26,14 @@ Cisco (CCNA, CCNP ENCOR+ENRSI).
 
 I have created a playlist of videos that teach useful tools such as Ansible, Zabbix, Prometheus, Grafana, Linux, and more.
 
- You can find them at the following link:   https://www.aparat.com/imanjowkar_network/playlists
+and this is my youtube channel: https://www.youtube.com/@ImanJokwar
+You can find them at the following link:   https://www.aparat.com/imanjowkar_network/playlists
 
 </p>
+
+You can see my post in Medium about networking and network automation
+<a href="https://medium.com/@imanjowkar99" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" height="30" width="30" /></a>
+
 
 You can see my post in Medium about networking and network automation
 <a href="https://medium.com/@imanjowkar99" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" height="30" width="30" /></a>
