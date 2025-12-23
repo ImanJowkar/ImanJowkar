@@ -27,13 +27,10 @@ Cisco (CCNA, CCNP ENCOR+ENRSI).
 I have created a playlist of videos that teach useful tools such as Ansible, Zabbix, Prometheus, Grafana, Linux, and more.
 
 and this is my youtube channel: https://www.youtube.com/@ImanJokwar
+
 You can find them at the following link:   https://www.aparat.com/imanjowkar_network/playlists
 
 </p>
-
-You can see my post in Medium about networking and network automation
-<a href="https://medium.com/@imanjowkar99" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" height="30" width="30" /></a>
-
 
 You can see my post in Medium about networking and network automation
 <a href="https://medium.com/@imanjowkar99" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" height="30" width="30" /></a>
